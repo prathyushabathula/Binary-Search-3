@@ -1,4 +1,4 @@
-//Time Complexity: O(log n) where n is the exponent value, we are reducing the n value by half in each recurive call
+//Time Complexity: O(log n) where n is the exponent value, we are reducing the n value by half in each recursive call
 //Space Complexity: O(n/2) - stack space
 //Did this code run successfully on leetcode: yes
 class Power {
